@@ -6,12 +6,25 @@ I administer CRM platforms and build the interfaces, mappings, and automation ar
 
 **Relevant work:** Zoho CRM administration, migration and workflow delivery, CRM integration engineering, business systems ownership, and scoped implementation consulting.
 
-[Profile](https://github.com/RawPowered/RawPowered) · [Detailed walkthrough](docs/WALKTHROUGH.md) · [Evidence & scope](docs/EVIDENCE.md) · [Development plan](docs/ROADMAP.md) · [LinkedIn](https://www.linkedin.com/in/josephedwardscto/)
+<p><a href="https://github.com/RawPowered"><img src="assets/rawops/profile.svg" alt="Main portfolio" height="38"></a> <a href="docs/WALKTHROUGH.md"><img src="assets/rawops/walkthrough.svg" alt="Delivery walkthrough" height="38"></a> <a href="docs/EVIDENCE.md"><img src="assets/rawops/evidence.svg" alt="Evidence and scope" height="38"></a> <a href="https://www.linkedin.com/in/josephedwardscto/"><img src="assets/rawops/contact.svg" alt="Connect on LinkedIn" height="38"></a></p>
 
-## Start here — a three-minute review
+<h2 id="rawops-suite"><img src="assets/rawops/section.svg" alt="CRM delivery across the customer journey" width="100%"></h2>
+
+RawOps Suite shows the custom business application behind the sales journey: prepare an agent, find a suitable shop, review outreach, fulfill a sample and maintain the account relationship.
+
+<a href="docs/RAWOPS-SUITE.md"><img src="assets/rawops/case.svg" alt="Explore the RawOps case" height="38"></a> <a href="https://github.com/RawPowered/RawOps-Suite"><img src="assets/rawops/source.svg" alt="Inspect RawOps source" height="38"></a> <a href="https://github.com/RawPowered/RawOps-Suite/blob/main/docs/PRODUCT-LEARNING-DESIGN.md"><img src="assets/rawops/design.svg" alt="Product and learning design" height="38"></a>
+
+<a href="https://github.com/RawPowered/RawOps-Suite/blob/main/docs/evidence/GALLERY.md"><img src="https://raw.githubusercontent.com/RawPowered/RawOps-Suite/main/docs/evidence/screenshots/crm-data-quality-2025-10-20.png" alt="20 October 2025: 143 detailed leads, 241 incomplete leads and 69 email chains in the historical CRM panel. These describe record quality and follow-up coverage in that capture." width="100%"></a>
+
+20 October 2025: 143 detailed leads, 241 incomplete leads and 69 email chains in the historical CRM panel. These describe record quality and follow-up coverage in that capture.
+
+**Evidence scope:** This is a custom PHP/MySQL CRM and operations platform. Zoho administration and GoHighLevel adapter work are covered by the separate cases below. RawOps preserves historical usage evidence and source; current deployment remains unvalidated.
+
+## Continue your three-minute review
 
 | Evidence | What to inspect | Delivery / evidence scope |
 |---|---|---|
+| [RawOps Suite](docs/RAWOPS-SUITE.md) | Shop discovery, lead quality, sample follow-up, store accounts, agent cards and product-aware learning. | Custom CRM source and genuine redacted historical screens; no current deployment or conversion attribution claimed. |
 | [PowerPortals and Zoho widgets](https://github.com/RawPowered/PowerPortals-Showcase) | Reusable intake and customer/team workspace direction, schema review, and mapping decisions. | Commercial implementation supplied privately; public tours use fictional data. |
 | [305UGC Suite](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md) | Company-specific WordPress–Zoho request delivery and customer/project access architecture. | Public website captured; full operational acceptance remains pending. |
 | [Flow Fountain](https://github.com/RawPowered/flow-fountain-for-crms) | Self-hosted workflow authoring, execution review, integration grants, and adaptation points. | Original CRM adapter is GoHighLevel/LeadConnector; other adapters require implementation. |

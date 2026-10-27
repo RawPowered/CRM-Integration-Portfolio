@@ -1,5 +1,11 @@
 # A CRM engagement from discovery to acceptance
 
+
+## RawOps Suite implementation case
+
+RawOps Suite shows the custom business application behind the sales journey: prepare an agent, find a suitable shop, review outreach, fulfill a sample and maintain the account relationship. [Follow three concrete examples with source and historical evidence](RAWOPS-SUITE.md).
+
+
 ## 1. Understand the existing operation
 
 Identify the request, accountable team, current source of truth, modules, lifecycle states, integration owners, and sensitive fields. Review sample schema and aggregate patterns with permission. Avoid copying customer records into a public demo.

@@ -10,12 +10,18 @@ This repository curates existing work for a particular review path. It is a docu
 | Preview | Fictional or empty data and mocked responses remain labeled. |
 | Proposed | Tabletop procedures, review frameworks, and roadmap items are not completed operating results. |
 
+
+## RawOps Suite evidence added October 26, 2026
+
+Custom CRM source, dated lead-quality and agent-interface captures, and documented sample-enrollment/fulfillment separation. Distinct from Zoho product compatibility and live integration acceptance. [Review the role-specific case](RAWOPS-SUITE.md) and [original publication scope](https://github.com/RawPowered/RawOps-Suite/blob/main/docs/PUBLICATION-REVIEW.md).
+
+
 ## Primary portfolio references
 
-- [PowerPortals and Zoho widgets](https://github.com/RawPowered/PowerPortals-Showcase) — Commercial implementation supplied privately; public tours use fictional data.
-- [305UGC Suite](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md) — Public website captured; full operational acceptance remains pending.
-- [Flow Fountain](https://github.com/RawPowered/flow-fountain-for-crms) — Original CRM adapter is GoHighLevel/LeadConnector; other adapters require implementation.
-- [Expert Solar migration history](https://github.com/RawPowered/RawPowered/blob/main/docs/EXPERT-SOLAR.md) — Preserved partial history of a previously functional system.
+- [PowerPortals and Zoho widgets](https://github.com/RawPowered/PowerPortals-Showcase): Commercial implementation supplied privately; public tours use fictional data.
+- [305UGC Suite](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md): Public website captured; full operational acceptance remains pending.
+- [Flow Fountain](https://github.com/RawPowered/flow-fountain-for-crms): Original CRM adapter is GoHighLevel/LeadConnector; other adapters require implementation.
+- [Expert Solar migration history](https://github.com/RawPowered/RawPowered/blob/main/docs/EXPERT-SOLAR.md): Preserved partial history of a previously functional system.
 
 - [Background and credential status](https://github.com/RawPowered/RawPowered/blob/main/docs/BACKGROUND.md)
 - [Security and privacy boundaries](https://github.com/RawPowered/RawPowered/blob/main/docs/SECURITY-AND-PRIVACY.md)
@@ -38,4 +44,4 @@ Independent implementation portfolio. Each engagement needs its own scope, autho
 
 Project repositories remain the authoritative location for their current source, releases, checks, and acceptance scope. This portfolio was prepared October 25, 2026.
 
-[Return to overview](../README.md)
+[Return to overview](../README.md) · [Remaining evidence and acceptance work](ROADMAP.md)

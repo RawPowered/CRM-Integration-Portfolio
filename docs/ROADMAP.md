@@ -11,3 +11,7 @@ The first edition contains a reading path, a detailed walkthrough, linked existi
 Use authorized, isolated environments with fictional data for new demonstrations. A diagram, screenshot, or procedure alone does not establish an execution result. Add dated observations and source references when work is completed.
 
 [Return to overview](../README.md)
+
+## Evidence now available
+
+Custom CRM journey with prospecting, sample handoffs, account context and learning evidence. [Published RawOps case](RAWOPS-SUITE.md), added October 26, 2026. This completes the historical/source reading path; the acceptance and restoration items above remain open.
