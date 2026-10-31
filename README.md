@@ -26,13 +26,13 @@ RawOps Suite shows the custom business application behind the sales journey: pre
 |---|---|---|
 | [RawOps Suite](docs/RAWOPS-SUITE.md) | Shop discovery, lead quality, sample follow-up, store accounts, agent cards and product-aware learning. | Custom CRM source and genuine redacted historical screens; no current deployment or conversion attribution claimed. |
 | [PowerPortals and Zoho widgets](https://github.com/RawPowered/PowerPortals-Showcase) | Reusable intake and customer/team workspace direction, schema review, and mapping decisions. | Commercial implementation supplied privately; public tours use fictional data. |
-| [305UGC Suite](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md) | Company-specific WordPress–Zoho request delivery and customer/project access architecture. | Public website captured; full operational acceptance remains pending. |
+| [305UGC Suite](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md) | Company-specific WordPress-Zoho request delivery and customer/project access architecture. | Public website captured; full operational acceptance remains pending. |
 | [Flow Fountain](https://github.com/RawPowered/flow-fountain-for-crms) | Self-hosted workflow authoring, execution review, integration grants, and adaptation points. | Original CRM adapter is GoHighLevel/LeadConnector; other adapters require implementation. |
 | [Expert Solar migration history](https://github.com/RawPowered/RawPowered/blob/main/docs/EXPERT-SOLAR.md) | Salesforce-to-Zoho transition, administration ownership, and surviving configuration. | Preserved partial history of a previously functional system. |
 
 ## A closer look
 
-![Selected interface; see the linked project for full tour and status](assets/preview.png)
+![Selected interface: see the linked project for full tour and status](assets/preview.png)
 
 Preview from the existing public portfolio; it illustrates an interface, not a new performance result. [Unpack the decisions and operating approach](docs/WALKTHROUGH.md).
 
